@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "Name": "John Doe",
+    "Email": "john.doe@example.com",
+    "Score": 85,
+    "CreatedAt": "2024-01-01T10:00:00Z"
+  },
+  {
+    "ID": 2,
+    "Name": "Jane Smith",
+    "Email": "jane.smith@example.com",
+    "Score": 92,
+    "CreatedAt": "2024-02-15T12:30:00Z"
+  },
+  {
+    "ID": 3,
+    "Name": "Alice Johnson",
+    "Email": "alice.johnson@example.com",
+    "Score": 78,
+    "CreatedAt": "2024-03-10T14:45:00Z"
+  }
+]
